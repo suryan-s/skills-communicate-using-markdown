@@ -12,3 +12,9 @@ void main(){
   printf("Hello, World!");
 }
 ```
+
+- [ ] This is task 1
+- [ ] This is task 2
+- [ ] This is task 3
+- [ ] This is task 4
+- [x] This is task 5
